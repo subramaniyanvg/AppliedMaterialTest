@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 69ef5e0fd3ae3c84c9e6f69e9331dcc6
+timeCreated: 1466030547
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1-2 Allen Wrench
+    100002: 1-4 Allen Wrench
+    100004: 1-8 Allen Wrench
+    100006: ALLEN BOLT Med
+    100008: //RootNode
+    100010: Bolt Phillips head
+    100012: Bolt Robertson head
+    100014: Bolt Standard head
+    100016: Bone_L_Hand01
+    100018: Bone_L_Hand02
+    100020: Bone_L_Hand03
+    100022: Bone_L_HandFinger01_01
+    100024: Bone_L_HandFinger01_02
+    100026: Bone_L_HandFinger01_03
+    100028: Bone_L_HandFinger02_01
+    100030: Bone_L_HandFinger02_02
+    100032: Bone_L_HandFinger02_03
+    100034: Bone_L_HandFinger03_01
+    100036: Bone_L_HandFinger03_02
+    100038: Bone_L_HandFinger03_03
+    100040: Bone_L_HandFinger04_01
+    100042: Bone_L_HandFinger04_02
+    100044: Bone_L_HandFinger04_03
+    100046: Bone_L_HandThumb_01
+    100048: Bone_L_HandThumb_02
+    100050: Bone_L_HandThumb_03
+    100052: Bone_R_Hand01
+    100054: Bone_R_Hand02
+    100056: Bone_R_Hand03
+    100058: Bone_R_HandFinger01_01
+    100060: Bone_R_HandFinger01_02
+    100062: Bone_R_HandFinger01_03
+    100064: Bone_R_HandFinger02_01
+    100066: Bone_R_HandFinger02_02
+    100068: Bone_R_HandFinger02_03
+    100070: Bone_R_HandFinger03_01
+    100072: Bone_R_HandFinger03_02
+    100074: Bone_R_HandFinger03_03
+    100076: Bone_R_HandFinger04_01
+    100078: Bone_R_HandFinger04_02
+    100080: Bone_R_HandFinger04_03
+    100082: Bone_R_HandThumb_01
+    100084: Bone_R_HandThumb_02
+    100086: Bone_R_HandThumb_03
+    100088: Caliper_slide
+    100090: Calipers Base
+    100092: Extended Ratchet Driver Large
+    100094: Extended Ratchet Driver Small
+    100096: Hammer
+    100098: HAND Left (do not manipulate)
+    100100: HAND Right (do not manipulate)
+    100102: HEX BOLT Med
+    100104: Large Socket
+    100106: Large Socket (extended)
+    100108: Left Hand
+    100110: Mallet
+    100112: NUT
+    100114: PLIERS
+    100116: PLIERS OPEN
+    100118: Ratchet Driver Large
+    100120: Ratchet Driver Small
+    100122: Right Hand
+    100124: RULER
+    100126: Screw Phillips head
+    100128: Screw Robertson head
+    100130: Screw Standard head
+    100132: Screwdriver Phillips
+    100134: Screwdriver Robertson
+    100136: Screwdriver Standard
+    100138: Small Socket
+    100140: Small Socket (extended)
+    100142: TAPE
+    100144: TAPE MEASURE
+    100146: Torque Wrench Large
+    100148: Torque Wrench Small
+    100150: Torque Wrench Socket Large
+    100152: Torque Wrench Socket Small
+    100154: WASHER
+    100156: Wipe
+    100158: Wrench 1" (25mm)
+    100160: "Wrench 1\xBC\" (32mm)"
+    100162: "Wrench \xBD\" (12mm)"
+    100164: "Wrench \xBE\" (18mm)"
+    400000: 1-2 Allen Wrench
+    400002: 1-4 Allen Wrench
+    400004: 1-8 Allen Wrench
+    400006: ALLEN BOLT Med
+    400008: //RootNode
+    400010: Bolt Phillips head
+    400012: Bolt Robertson head
+    400014: Bolt Standard head
+    400016: Bone_L_Hand01
+    400018: Bone_L_Hand02
+    400020: Bone_L_Hand03
+    400022: Bone_L_HandFinger01_01
+    400024: Bone_L_HandFinger01_02
+    400026: Bone_L_HandFinger01_03
+    400028: Bone_L_HandFinger02_01
+    400030: Bone_L_HandFinger02_02
+    400032: Bone_L_HandFinger02_03
+    400034: Bone_L_HandFinger03_01
+    400036: Bone_L_HandFinger03_02
+    400038: Bone_L_HandFinger03_03
+    400040: Bone_L_HandFinger04_01
+    400042: Bone_L_HandFinger04_02
+    400044: Bone_L_HandFinger04_03
+    400046: Bone_L_HandThumb_01
+    400048: Bone_L_HandThumb_02
+    400050: Bone_L_HandThumb_03
+    400052: Bone_R_Hand01
+    400054: Bone_R_Hand02
+    400056: Bone_R_Hand03
+    400058: Bone_R_HandFinger01_01
+    400060: Bone_R_HandFinger01_02
+    400062: Bone_R_HandFinger01_03
+    400064: Bone_R_HandFinger02_01
+    400066: Bone_R_HandFinger02_02
+    400068: Bone_R_HandFinger02_03
+    400070: Bone_R_HandFinger03_01
+    400072: Bone_R_HandFinger03_02
+    400074: Bone_R_HandFinger03_03
+    400076: Bone_R_HandFinger04_01
+    400078: Bone_R_HandFinger04_02
+    400080: Bone_R_HandFinger04_03
+    400082: Bone_R_HandThumb_01
+    400084: Bone_R_HandThumb_02
+    400086: Bone_R_HandThumb_03
+    400088: Caliper_slide
+    400090: Calipers Base
+    400092: Extended Ratchet Driver Large
+    400094: Extended Ratchet Driver Small
+    400096: Hammer
+    400098: HAND Left (do not manipulate)
+    400100: HAND Right (do not manipulate)
+    400102: HEX BOLT Med
+    400104: Large Socket
+    400106: Large Socket (extended)
+    400108: Left Hand
+    400110: Mallet
+    400112: NUT
+    400114: PLIERS
+    400116: PLIERS OPEN
+    400118: Ratchet Driver Large
+    400120: Ratchet Driver Small
+    400122: Right Hand
+    400124: RULER
+    400126: Screw Phillips head
+    400128: Screw Robertson head
+    400130: Screw Standard head
+    400132: Screwdriver Phillips
+    400134: Screwdriver Robertson
+    400136: Screwdriver Standard
+    400138: Small Socket
+    400140: Small Socket (extended)
+    400142: TAPE
+    400144: TAPE MEASURE
+    400146: Torque Wrench Large
+    400148: Torque Wrench Small
+    400150: Torque Wrench Socket Large
+    400152: Torque Wrench Socket Small
+    400154: WASHER
+    400156: Wipe
+    400158: Wrench 1" (25mm)
+    400160: "Wrench 1\xBC\" (32mm)"
+    400162: "Wrench \xBD\" (12mm)"
+    400164: "Wrench \xBE\" (18mm)"
+    2300000: 1-2 Allen Wrench
+    2300002: 1-4 Allen Wrench
+    2300004: 1-8 Allen Wrench
+    2300006: ALLEN BOLT Med
+    2300008: Bolt Phillips head
+    2300010: Bolt Robertson head
+    2300012: Bolt Standard head
+    2300014: Bone_L_Hand01
+    2300016: Bone_L_Hand02
+    2300018: Bone_L_Hand03
+    2300020: Bone_L_HandFinger01_01
+    2300022: Bone_L_HandFinger01_02
+    2300024: Bone_L_HandFinger01_03
+    2300026: Bone_L_HandFinger02_01
+    2300028: Bone_L_HandFinger02_02
+    2300030: Bone_L_HandFinger02_03
+    2300032: Bone_L_HandFinger03_01
+    2300034: Bone_L_HandFinger03_02
+    2300036: Bone_L_HandFinger03_03
+    2300038: Bone_L_HandFinger04_01
+    2300040: Bone_L_HandFinger04_02
+    2300042: Bone_L_HandFinger04_03
+    2300044: Bone_L_HandThumb_01
+    2300046: Bone_L_HandThumb_02
+    2300048: Bone_L_HandThumb_03
+    2300050: Bone_R_Hand01
+    2300052: Bone_R_Hand02
+    2300054: Bone_R_Hand03
+    2300056: Bone_R_HandFinger01_01
+    2300058: Bone_R_HandFinger01_02
+    2300060: Bone_R_HandFinger01_03
+    2300062: Bone_R_HandFinger02_01
+    2300064: Bone_R_HandFinger02_02
+    2300066: Bone_R_HandFinger02_03
+    2300068: Bone_R_HandFinger03_01
+    2300070: Bone_R_HandFinger03_02
+    2300072: Bone_R_HandFinger03_03
+    2300074: Bone_R_HandFinger04_01
+    2300076: Bone_R_HandFinger04_02
+    2300078: Bone_R_HandFinger04_03
+    2300080: Bone_R_HandThumb_01
+    2300082: Bone_R_HandThumb_02
+    2300084: Bone_R_HandThumb_03
+    2300086: Caliper_slide
+    2300088: Calipers Base
+    2300090: Extended Ratchet Driver Large
+    2300092: Extended Ratchet Driver Small
+    2300094: Hammer
+    2300096: HEX BOLT Med
+    2300098: Large Socket
+    2300100: Large Socket (extended)
+    2300102: Left Hand
+    2300104: Mallet
+    2300106: NUT
+    2300108: PLIERS
+    2300110: PLIERS OPEN
+    2300112: Ratchet Driver Large
+    2300114: Ratchet Driver Small
+    2300116: Right Hand
+    2300118: RULER
+    2300120: Screw Phillips head
+    2300122: Screw Robertson head
+    2300124: Screw Standard head
+    2300126: Screwdriver Phillips
+    2300128: Screwdriver Robertson
+    2300130: Screwdriver Standard
+    2300132: Small Socket
+    2300134: Small Socket (extended)
+    2300136: TAPE
+    2300138: TAPE MEASURE
+    2300140: Torque Wrench Large
+    2300142: Torque Wrench Small
+    2300144: Torque Wrench Socket Large
+    2300146: Torque Wrench Socket Small
+    2300148: WASHER
+    2300150: Wipe
+    2300152: Wrench 1" (25mm)
+    2300154: "Wrench 1\xBC\" (32mm)"
+    2300156: "Wrench \xBD\" (12mm)"
+    2300158: "Wrench \xBE\" (18mm)"
+    3300000: 1-2 Allen Wrench
+    3300002: 1-4 Allen Wrench
+    3300004: 1-8 Allen Wrench
+    3300006: ALLEN BOLT Med
+    3300008: Bolt Phillips head
+    3300010: Bolt Robertson head
+    3300012: Bolt Standard head
+    3300014: Bone_L_Hand01
+    3300016: Bone_L_Hand02
+    3300018: Bone_L_Hand03
+    3300020: Bone_L_HandFinger01_01
+    3300022: Bone_L_HandFinger01_02
+    3300024: Bone_L_HandFinger01_03
+    3300026: Bone_L_HandFinger02_01
+    3300028: Bone_L_HandFinger02_02
+    3300030: Bone_L_HandFinger02_03
+    3300032: Bone_L_HandFinger03_01
+    3300034: Bone_L_HandFinger03_02
+    3300036: Bone_L_HandFinger03_03
+    3300038: Bone_L_HandFinger04_01
+    3300040: Bone_L_HandFinger04_02
+    3300042: Bone_L_HandFinger04_03
+    3300044: Bone_L_HandThumb_01
+    3300046: Bone_L_HandThumb_02
+    3300048: Bone_L_HandThumb_03
+    3300050: Bone_R_Hand01
+    3300052: Bone_R_Hand02
+    3300054: Bone_R_Hand03
+    3300056: Bone_R_HandFinger01_01
+    3300058: Bone_R_HandFinger01_02
+    3300060: Bone_R_HandFinger01_03
+    3300062: Bone_R_HandFinger02_01
+    3300064: Bone_R_HandFinger02_02
+    3300066: Bone_R_HandFinger02_03
+    3300068: Bone_R_HandFinger03_01
+    3300070: Bone_R_HandFinger03_02
+    3300072: Bone_R_HandFinger03_03
+    3300074: Bone_R_HandFinger04_01
+    3300076: Bone_R_HandFinger04_02
+    3300078: Bone_R_HandFinger04_03
+    3300080: Bone_R_HandThumb_01
+    3300082: Bone_R_HandThumb_02
+    3300084: Bone_R_HandThumb_03
+    3300086: Caliper_slide
+    3300088: Calipers Base
+    3300090: Extended Ratchet Driver Large
+    3300092: Extended Ratchet Driver Small
+    3300094: Hammer
+    3300096: HEX BOLT Med
+    3300098: Large Socket
+    3300100: Large Socket (extended)
+    3300102: Left Hand
+    3300104: Mallet
+    3300106: NUT
+    3300108: PLIERS
+    3300110: PLIERS OPEN
+    3300112: Ratchet Driver Large
+    3300114: Ratchet Driver Small
+    3300116: Right Hand
+    3300118: RULER
+    3300120: Screw Phillips head
+    3300122: Screw Robertson head
+    3300124: Screw Standard head
+    3300126: Screwdriver Phillips
+    3300128: Screwdriver Robertson
+    3300130: Screwdriver Standard
+    3300132: Small Socket
+    3300134: Small Socket (extended)
+    3300136: TAPE
+    3300138: TAPE MEASURE
+    3300140: Torque Wrench Large
+    3300142: Torque Wrench Small
+    3300144: Torque Wrench Socket Large
+    3300146: Torque Wrench Socket Small
+    3300148: WASHER
+    3300150: Wipe
+    3300152: Wrench 1" (25mm)
+    3300154: "Wrench 1\xBC\" (32mm)"
+    3300156: "Wrench \xBD\" (12mm)"
+    3300158: "Wrench \xBE\" (18mm)"
+    4300000: "Wrench 1\xBC\" (32mm)"
+    4300002: Hammer
+    4300004: Calipers Base
+    4300006: Caliper_slide
+    4300008: Screwdriver Phillips
+    4300010: Screwdriver Standard
+    4300012: Screwdriver Robertson
+    4300014: "Wrench \xBD\" (12mm)"
+    4300016: "Wrench \xBE\" (18mm)"
+    4300018: Wrench 1" (25mm)
+    4300020: Mallet
+    4300022: PLIERS
+    4300024: PLIERS OPEN
+    4300026: 1-4 Allen Wrench
+    4300028: HEX BOLT Med
+    4300030: WASHER
+    4300032: 1-8 Allen Wrench
+    4300034: 1-2 Allen Wrench
+    4300036: Small Socket (extended)
+    4300038: Extended Ratchet Driver Small
+    4300040: Large Socket (extended)
+    4300042: Extended Ratchet Driver Large
+    4300044: Large Socket
+    4300046: Ratchet Driver Large
+    4300048: Small Socket
+    4300050: Ratchet Driver Small
+    4300052: Wipe
+    4300054: ALLEN BOLT Med
+    4300056: Bolt Robertson head
+    4300058: Screw Robertson head
+    4300060: Bolt Phillips head
+    4300062: Screw Phillips head
+    4300064: Bolt Standard head
+    4300066: Screw Standard head
+    4300068: NUT
+    4300070: Torque Wrench Socket Large
+    4300072: Torque Wrench Large
+    4300074: Torque Wrench Socket Small
+    4300076: Torque Wrench Small
+    4300078: TAPE MEASURE
+    4300080: TAPE
+    4300082: RULER
+    4300084: Right Hand
+    4300086: HAND Right (do not manipulate)
+    4300088: Bone_R_Hand01
+    4300090: Bone_R_Hand02
+    4300092: Bone_R_Hand03
+    4300094: Bone_R_HandFinger04_01
+    4300096: Bone_R_HandFinger04_02
+    4300098: Bone_R_HandFinger04_03
+    4300100: Bone_R_HandFinger03_01
+    4300102: Bone_R_HandFinger03_02
+    4300104: Bone_R_HandFinger03_03
+    4300106: Bone_R_HandFinger02_01
+    4300108: Bone_R_HandFinger02_02
+    4300110: Bone_R_HandFinger02_03
+    4300112: Bone_R_HandFinger01_01
+    4300114: Bone_R_HandFinger01_02
+    4300116: Bone_R_HandFinger01_03
+    4300118: Bone_R_HandThumb_01
+    4300120: Bone_R_HandThumb_02
+    4300122: Bone_R_HandThumb_03
+    4300124: Left Hand
+    4300126: Bone_L_Hand01
+    4300128: Bone_L_Hand02
+    4300130: Bone_L_Hand03
+    4300132: Bone_L_HandFinger01_01
+    4300134: Bone_L_HandFinger01_02
+    4300136: Bone_L_HandFinger01_03
+    4300138: Bone_L_HandFinger04_01
+    4300140: Bone_L_HandFinger04_02
+    4300142: Bone_L_HandFinger04_03
+    4300144: Bone_L_HandFinger03_01
+    4300146: Bone_L_HandFinger03_02
+    4300148: Bone_L_HandFinger03_03
+    4300150: Bone_L_HandFinger02_01
+    4300152: Bone_L_HandFinger02_02
+    4300154: Bone_L_HandFinger02_03
+    4300156: Bone_L_HandThumb_01
+    4300158: Bone_L_HandThumb_02
+    4300160: Bone_L_HandThumb_03
+    4300162: HAND Left (do not manipulate)
+    9500000: //RootNode
+    13700000: HAND Left (do not manipulate)
+    13700002: HAND Right (do not manipulate)
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
